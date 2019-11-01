@@ -1,0 +1,27 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "my new app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gundba/reactapp1.git"
+  },
+  "keywords": [
+    "new",
+    "app"
+  ],
+  "author": "gundeep singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gundba/reactapp1/issues"
+  },
+  "homepage": "https://github.com/gundba/reactapp1#readme",
+  "dependencies": {
+    "create-react-app": "^3.2.0",
+    "first-app": "^1.0.0"
+  }
+}
